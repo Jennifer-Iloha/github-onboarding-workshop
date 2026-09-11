@@ -19,12 +19,13 @@
 
 
 
-\---
+
 
 ## Lab / Hands-On Work
 
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
+<img width="1911" height="1007" alt="Screenshot 2026-09-11 054824" src="https://github.com/user-attachments/assets/f9f8ac91-e9e6-465f-8c11-6d4e0ce5e416" />
 
 
 ### What I did
@@ -56,7 +57,7 @@ There were no major challenges during the session.
 
 
 
-\---
+
 
 ## My Takeaways
 
@@ -70,16 +71,16 @@ This session made it clear that protecting a single secret takes multiple layers
 
 
 
-\---
+
 
 ## Questions I Still Have
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
 * NONE
-* 
+  
 
-\---
+
 
 ## Resources I Found Useful
 
@@ -88,7 +89,6 @@ This session made it clear that protecting a single secret takes multiple layers
 * https://youtu.be/GKqpej4X9B0?t=9325
 * Microsoft Learn SC-500 learning materials.
 
-\---
 
 *Submitted by: \[Jennifer Iloha] · \[Jennifer Iloha]*
 
