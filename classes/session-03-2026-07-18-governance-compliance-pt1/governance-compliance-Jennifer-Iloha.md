@@ -55,7 +55,7 @@ Some of the compliance concepts and requirements took a little time to understan
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
-* Microsoft Cloud Security Benchmark documentation: https://learn.microsoft.com/en-us/security/benchmark/azure/
+* Microsoft Learn SC-500 learning materials
 * https://youtu.be/oN8ZdKTq-p0?t=1284
 * https://youtu.be/bj760qx1MSQ?t=7
 
